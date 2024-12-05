@@ -1,5 +1,5 @@
 # CFblock-in-Seaformer
-A combination of Seaformer semantic branch and SCTNet spatial branch.
+A combination of Seaformer semantic branch and SCTNet spatial branch.(paddlepaddle version)
 ![figure1](https://github.com/user-attachments/assets/738b95b1-22ce-42b3-9b71-6fd1ccbc3ec7)
 (The picture comes from SCTNet(AAAI24)
 We only use the CFBlock to enhance the Seaformer semantic branch.
